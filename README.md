@@ -28,7 +28,7 @@ As the co-founder of [CHOYCE](https://github.com/CHOYCEapp), my team and I achie
 
 ## 📫 Contact
 
-📧 Linkedin: [Linkedin](https://www.linkedin.com/in/maximilian-valentin-longinus/)
+📧 Personal contact: [Linkedin](https://www.linkedin.com/in/maximilian-valentin-longinus/)
 
 
 Feel free to get in touch.
