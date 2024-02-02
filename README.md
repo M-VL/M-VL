@@ -12,7 +12,7 @@ I'm currently studying business informatics while co-founding on my own fashion-
 
 ## 📈 Entrepreneurial Experience
 
-As the co-founder of [CHOYCE](https://github.com/CHOYCEapp), my team and I achieved several milestones and have secured around 150k Euro Our mission is to make fashion a truely digital  technology meaningfully to enhance people's lives.
+As the co-founder of [CHOYCE](https://github.com/CHOYCEapp), my team and I achieved several milestones and have secured around 150k Euro in public funding. Our mission is to make fashion a truely digital  technology meaningfully to enhance people's lives.
 
 **Explore our journey from other perspectives on:**
 
