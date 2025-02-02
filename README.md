@@ -8,11 +8,11 @@ As a passionate tech & design enthusiast, I blend creativity and technology to c
 
 ## 🔭 Current Endeavors
 
-I'm currently studying business informatics while co-founding on my own fashion-tech startup [CHOYCE](https://github.com/CHOYCEapp), working in a team of 11 as an allrounder when it comes to design, developement, product owning, team managment and many more.
+I'm currently studying business informatics while co-founding on my own fashion-tech startup [CHOYCE](https://github.com/CHOYCEtech), working in a team of 11 as an allrounder when it comes to design, developement, product owning, team managment and many more.
 
 ## 📈 Entrepreneurial Experience
 
-As the co-founder of [CHOYCE](https://github.com/CHOYCEapp), my team and I achieved several milestones and have secured around 150k Euro in public funding. Our mission is to make fashion a truely digital  technology meaningfully to enhance people's lives.
+As the co-founder of [CHOYCE](https://github.com/CHOYCEtech), my team and I achieved several milestones and have secured around 150k Euro in public funding. Our mission is to make fashion a truely digital  technology meaningfully to enhance people's lives.
 
 **Explore our journey from other perspectives on:**
 
